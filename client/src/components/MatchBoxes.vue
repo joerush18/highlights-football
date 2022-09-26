@@ -7,15 +7,16 @@
       }"
     >
       <div class="flex justify-between items-center">
-        <img
+        <!-- <img
           :src="
             require(`../assets/${contents.competitionName
               .replaceAll(/\s/g, '')
               .toLowerCase()}.png`)
           "
+          @error="require('../assets/logo.png')"
           alt="L"
           class="h-8 w-8 shadow-md rounded-md p-[4px]"
-        />
+        /> -->
         <p class="text-xs font-bold text-gray-400">{{ contents.matchTime }}</p>
       </div>
 
