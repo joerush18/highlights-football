@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const herokuLink = "https://football-highlights-link-api.herokuapp.com/api";
+const herokuLink = "https://web-production-81bd.up.railway.app/api";
 const localLink = "http://localhost:8000/api";
 
 const axiosConfig = {
