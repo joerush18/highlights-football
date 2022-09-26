@@ -2,9 +2,9 @@
 
 ## Badges
 
-![MIT License](https://img.shields.io/github/issues/joerush18/highlights-watch)
-![GPLv3 License](https://img.shields.io/github/forks/joerush18/highlights-watch)
-![AGPL License](https://img.shields.io/github/stars/joerush18/highlights-watch)
+![MIT License](https://img.shields.io/github/issues/joerush18/highlights-football)
+![GPLv3 License](https://img.shields.io/github/forks/joerush18/highlights-football)
+![AGPL License](https://img.shields.io/github/stars/joerush18/highlights-football)
 
 This is a [Vue.js](https://vuejs.org/) project.
 Backend is created using Scrapping of website https://hoofoot.com/ using cheerio.
