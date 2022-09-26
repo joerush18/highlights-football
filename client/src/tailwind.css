@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .container {
+    @apply mx-auto;
+  }
+  .hover-effect {
+    @apply hover:opacity-60 cursor-pointer;
+  }
+  .list-buttons {
+    @apply bg-white shadow-sm border-l-4  rounded-md px-2 py-2 text-sm font-bold text-cyan-800 mb-2 hover-effect cursor-pointer justify-start items-center flex space-x-2;
+  }
+}

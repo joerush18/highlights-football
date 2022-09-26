@@ -1,0 +1,37 @@
+[
+  {
+    "compCode": "15",
+    "name": "Champions League",
+    "imageLink": "championslaegue.png"
+  },
+  {
+    "compCode": "16",
+    "name": "Europa League",
+    "imageLink": "europaleague.png"
+  },
+  {
+    "compCode": "19",
+    "name": "Laliga",
+    "imageLink": "laliga.png"
+  },
+  {
+    "compCode": "21",
+    "name": "Premier League",
+    "imageLink": "premierleague.png"
+  },
+  {
+    "compCode": "17",
+    "name": "Serie A",
+    "imageLink": "seriea.png"
+  },
+  {
+    "compCode": "5",
+    "name": "Bundesliga",
+    "imageLink": "bundesliga.png"
+  },
+  {
+    "compCode": "18",
+    "name": "Ligue 1",
+    "imageLink": "ligue1.png"
+  }
+]
